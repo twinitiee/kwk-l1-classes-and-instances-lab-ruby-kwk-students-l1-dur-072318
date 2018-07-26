@@ -5,6 +5,7 @@ class Dog
     @fido
     @snoopy
     @lassie
+  end
   
   def fido
     @fido
