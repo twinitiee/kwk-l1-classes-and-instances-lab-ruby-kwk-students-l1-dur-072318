@@ -5,17 +5,6 @@ class Dog
     @name=name
   end
   
-  # def fido
-  #   @fido
-  # end
-  
-  # def snoopy
-  #   @snoopy
-  # end
-  
-  # def lassie
-  #   @lassie
-  # end
 end
 
 dog1=Dog.new("fido")
