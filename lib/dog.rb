@@ -7,7 +7,7 @@ class Dog
   
 end
 
-dog1=Dog.new("fido")
-dog2=Dog.new("snoopy")
-dog3=Dog.new("lassie")
+fido=Dog.new("fido")
+snoopy=Dog.new("snoopy")
+lassie=Dog.new("lassie")
 
