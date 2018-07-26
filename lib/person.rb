@@ -1,4 +1,4 @@
 # person.rb
 class Person
-  def initialize 
+  def initialize ("adele_goldberg", "alan_kay")
   
