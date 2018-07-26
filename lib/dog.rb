@@ -14,3 +14,4 @@ class Dog("fido", "snoopy", "lassie")
     @lassie
   end
 end
+
