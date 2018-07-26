@@ -12,4 +12,4 @@ class Person
   def alan_kay
     @alan_kay
   end 
-    
+end 
