@@ -1,4 +1,5 @@
 # dog.rb
 
-class Dog
+class Dog("fido", "snoopy", "lassie")
+  
 end
